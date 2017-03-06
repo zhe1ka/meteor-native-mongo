@@ -1,5 +1,3 @@
-const db = MongoInternals.defaultRemoteCollectionDriver().mongo.db;
+var db = MongoInternals.defaultRemoteCollectionDriver().mongo.db;
 
-export {
-    db
-};
+module.export = db;
