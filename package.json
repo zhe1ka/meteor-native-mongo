@@ -1,7 +1,7 @@
 {
   "name": "meteor-native-mongo",
   "version": "0.0.3",
-  "description": "It is a very simple package for Meteor that allows you to use a native mongodb.",
+  "description": "It is a very simple package for Meteor that extends mongodb commands.",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
