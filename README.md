@@ -3,6 +3,9 @@
 It is a very simple package for Meteor that extends mongodb commands.
 There is no some magic, just one line of code, but It is very handy to import from node_module, not from a related path.
 
+# Requirement
+Meteor >= 1.4
+
 # Installation
 ```
 $ npm install --save meteor-native-mongo
